@@ -19,8 +19,7 @@ if ($Aa=='User'){
                       window.location = "pos.php";
                   </script>
              <?php   }
-                         
-           
+                                   
 }
 $sql = "SELECT DISTINCT JOB_TITLE, JOB_ID FROM job order by JOB_ID asc";
 $result = mysqli_query($db, $sql) or die ("Bad SQL: $sql");

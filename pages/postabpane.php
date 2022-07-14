@@ -16,7 +16,7 @@
                                       <form method="post" action="pos.php?action=add&id=<?php echo $product['PRODUCT_ID']; ?>">
                                           <div class="products">
                                               <h6 class="text-info"><?php echo $product['NAME']; ?></h6>
-                                              <h6>₱ <?php echo $product['PRICE']; ?></h6>
+                                              <h6>$ <?php echo $product['PRICE']; ?></h6>
                                               <input type="text" name="quantity" class="form-control" value="1" />
                                               <input type="hidden" name="name" value="<?php echo $product['NAME']; ?>" />
                                               <input type="hidden" name="price" value="<?php echo $product['PRICE']; ?>" />
@@ -47,7 +47,7 @@
                                       <form method="post" action="pos.php?action=add&id=<?php echo $product['PRODUCT_ID']; ?>">
                                           <div class="products">
                                               <h6 class="text-info"><?php echo $product['NAME']; ?></h6>
-                                              <h6>₱ <?php echo $product['PRICE']; ?></h6>
+                                              <h6>$ <?php echo $product['PRICE']; ?></h6>
                                               <input type="text" name="quantity" class="form-control" value="1" />
                                               <input type="hidden" name="name" value="<?php echo $product['NAME']; ?>" />
                                               <input type="hidden" name="price" value="<?php echo $product['PRICE']; ?>" />
@@ -77,7 +77,7 @@
                                       <form method="post" action="pos.php?action=add&id=<?php echo $product['PRODUCT_ID']; ?>">
                                           <div class="products">
                                               <h6 class="text-info"><?php echo $product['NAME']; ?></h6>
-                                              <h6>₱ <?php echo $product['PRICE']; ?></h6>
+                                              <h6>$ <?php echo $product['PRICE']; ?></h6>
                                               <input type="text" name="quantity" class="form-control" value="1" />
                                               <input type="hidden" name="name" value="<?php echo $product['NAME']; ?>" />
                                               <input type="hidden" name="price" value="<?php echo $product['PRICE']; ?>" />
@@ -107,7 +107,7 @@
                                       <form method="post" action="pos.php?action=add&id=<?php echo $product['PRODUCT_ID']; ?>">
                                           <div class="products">
                                               <h6 class="text-info"><?php echo $product['NAME']; ?></h6>
-                                              <h6>₱ <?php echo $product['PRICE']; ?></h6>
+                                              <h6>$ <?php echo $product['PRICE']; ?></h6>
                                               <input type="text" name="quantity" class="form-control" value="1" />
                                               <input type="hidden" name="name" value="<?php echo $product['NAME']; ?>" />
                                               <input type="hidden" name="price" value="<?php echo $product['PRICE']; ?>" />
@@ -137,7 +137,7 @@
                                       <form method="post" action="pos.php?action=add&id=<?php echo $product['PRODUCT_ID']; ?>">
                                           <div class="products">
                                               <h6 class="text-info"><?php echo $product['NAME']; ?></h6>
-                                              <h6>₱ <?php echo $product['PRICE']; ?></h6>
+                                              <h6>$ <?php echo $product['PRICE']; ?></h6>
                                               <input type="text" name="quantity" class="form-control" value="1" />
                                               <input type="hidden" name="name" value="<?php echo $product['NAME']; ?>" />
                                               <input type="hidden" name="price" value="<?php echo $product['PRICE']; ?>" />
@@ -167,7 +167,7 @@
                                       <form method="post" action="pos.php?action=add&id=<?php echo $product['PRODUCT_ID']; ?>">
                                           <div class="products">
                                               <h6 class="text-info"><?php echo $product['NAME']; ?></h6>
-                                              <h6>₱ <?php echo $product['PRICE']; ?></h6>
+                                              <h6>$ <?php echo $product['PRICE']; ?></h6>
                                               <input type="text" name="quantity" class="form-control" value="1" />
                                               <input type="hidden" name="name" value="<?php echo $product['NAME']; ?>" />
                                               <input type="hidden" name="price" value="<?php echo $product['PRICE']; ?>" />
@@ -197,7 +197,7 @@
                                       <form method="post" action="pos.php?action=add&id=<?php echo $product['PRODUCT_ID']; ?>">
                                           <div class="products">
                                               <h6 class="text-info"><?php echo $product['NAME']; ?></h6>
-                                              <h6>₱ <?php echo $product['PRICE']; ?></h6>
+                                              <h6>$ <?php echo $product['PRICE']; ?></h6>
                                               <input type="text" name="quantity" class="form-control" value="1" />
                                               <input type="hidden" name="name" value="<?php echo $product['NAME']; ?>" />
                                               <input type="hidden" name="price" value="<?php echo $product['PRICE']; ?>" />
@@ -227,7 +227,7 @@
                                       <form method="post" action="pos.php?action=add&id=<?php echo $product['PRODUCT_ID']; ?>">
                                           <div class="products">
                                               <h6 class="text-info"><?php echo $product['NAME']; ?></h6>
-                                              <h6>₱ <?php echo $product['PRICE']; ?></h6>
+                                              <h6>$ <?php echo $product['PRICE']; ?></h6>
                                               <input type="text" name="quantity" class="form-control" value="1" />
                                               <input type="hidden" name="name" value="<?php echo $product['NAME']; ?>" />
                                               <input type="hidden" name="price" value="<?php echo $product['PRICE']; ?>" />
@@ -257,7 +257,7 @@
                                       <form method="post" action="pos.php?action=add&id=<?php echo $product['PRODUCT_ID']; ?>">
                                           <div class="products">
                                               <h6 class="text-info"><?php echo $product['NAME']; ?></h6>
-                                              <h6>₱ <?php echo $product['PRICE']; ?></h6>
+                                              <h6>$ <?php echo $product['PRICE']; ?></h6>
                                               <input type="text" name="quantity" class="form-control" value="1" />
                                               <input type="hidden" name="name" value="<?php echo $product['NAME']; ?>" />
                                               <input type="hidden" name="price" value="<?php echo $product['PRICE']; ?>" />

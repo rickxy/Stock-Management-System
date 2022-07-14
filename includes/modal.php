@@ -13,7 +13,6 @@ $job .= "</select>";
 ?>
 <script>  
 window.onload = function() {  
-
   // ---------------
   // basic usage
   // ---------------

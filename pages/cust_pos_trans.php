@@ -18,8 +18,7 @@ if ($Aa=='User'){
                       alert("Restricted Page! You will be redirected to POS");
                       window.location = "pos.php";
                   </script>
-             <?php   }
-                         
+             <?php   }               
            
 }   
             ?>

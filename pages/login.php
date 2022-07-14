@@ -16,7 +16,9 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Sales And Inventory</title>
+  <title>Stock Control Management System</title>
+
+  <link rel="icon" href="https://www.freeiconspng.com/uploads/sales-icon-7.png">
 
   <!-- Custom fonts for this template-->
   <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -44,7 +46,7 @@
               <div class="col-lg-6">
                 <div class="p-5">
                   <div class="text-center">
-                    <h1 class="h4 text-gray-900 mb-4">Welcome to Sales and Inventory!</h1>
+                    <h1 class="h4 text-gray-900 mb-4">Welcome to Stock Control Management System!</h1>
                   </div>
                   <form class="user" role="form" action="processlogin.php" method="post">
                     <div class="form-group">

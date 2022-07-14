@@ -2,6 +2,7 @@
   require_once('session.php');
   confirm_logged_in();
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -36,7 +37,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Sales and Inventory System</title>
+  <title>Stock Control Management System </title>
   <link rel="icon" href="https://www.freeiconspng.com/uploads/sales-icon-7.png">
 
   <!-- Custom fonts for this template-->
@@ -70,7 +71,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
           <i class="fas fa-laugh-wink"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Sales and Inventory System</div>
+        <div class="sidebar-brand-text mx-3">Stock Control Management System</div>
       </a>
 
           <!-- Topbar Navbar -->

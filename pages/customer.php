@@ -19,8 +19,7 @@ if ($Aa=='User'){
                       window.location = "pos.php";
                   </script>
              <?php   }
-                         
-           
+                                    
 }   
             ?>
             

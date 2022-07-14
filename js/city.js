@@ -1,9 +1,4 @@
-/**
-* Philippine Provinces & Cities/Municipalities on HTML Dropdown
-*
-* @ version 1.0.0
-* @ author Marvic R. Macalintal
-*/
+
  var cities = {
 	'Abra'  : [
 		'Bangued','Boliney','Bucay','Bucloc','Daguioman','Danglas',

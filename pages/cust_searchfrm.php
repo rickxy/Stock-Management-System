@@ -19,8 +19,7 @@ if ($Aa=='User'){
                       window.location = "pos.php";
                   </script>
              <?php   }
-                         
-           
+                                  
 }   
   $query = 'SELECT * FROM customer WHERE CUST_ID ='.$_GET['id'];
   $result = mysqli_query($db, $query) or die(mysqli_error($db));

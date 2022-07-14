@@ -52,7 +52,7 @@ $opt .= "</select>";
             <div class="col-sm-7">
               <div class="input-group mb-2">
                 <div class="input-group-prepend">
-                  <span class="input-group-text">₱</span>
+                  <span class="input-group-text">$</span>
                 </div>
                 <input type="text" class="form-control text-right " value="<?php echo number_format($total, 2); ?>" readonly name="subtotal">
               </div>
@@ -70,7 +70,7 @@ $opt .= "</select>";
             <div class="col-sm-7">
               <div class="input-group mb-2">
                 <div class="input-group-prepend">
-                  <span class="input-group-text">₱</span>
+                  <span class="input-group-text">$</span>
                 </div>
                 <input type="text" class="form-control text-right " value="<?php echo number_format($lessvat, 2); ?>" readonly name="lessvat">
               </div>
@@ -88,7 +88,7 @@ $opt .= "</select>";
             <div class="col-sm-7">
               <div class="input-group mb-2">
                 <div class="input-group-prepend">
-                  <span class="input-group-text">₱</span>
+                  <span class="input-group-text">$</span>
                 </div>
                 <input type="text" class="form-control text-right " value="<?php echo number_format($netvat, 2); ?>" readonly name="netvat">
               </div>
@@ -106,7 +106,7 @@ $opt .= "</select>";
             <div class="col-sm-7">
               <div class="input-group mb-2">
                 <div class="input-group-prepend">
-                  <span class="input-group-text">₱</span>
+                  <span class="input-group-text">$</span>
                 </div>
                 <input type="text" class="form-control text-right " value="<?php echo number_format($addvat, 2); ?>" readonly name="addvat">
               </div>
@@ -124,7 +124,7 @@ $opt .= "</select>";
             <div class="col-sm-7">
               <div class="input-group mb-2">
                 <div class="input-group-prepend">
-                  <span class="input-group-text">₱</span>
+                  <span class="input-group-text">$</span>
                 </div>
                 <input type="text" class="form-control text-right " value="<?php echo number_format($total, 2); ?>" readonly name="total">
               </div>
@@ -152,7 +152,7 @@ $opt .= "</select>";
                         GRAND TOTAL
                       </h3>
                       <h3 class="font-weight-bold py-3 bg-light">
-                        ₱ <?php echo number_format($total, 2); ?>
+                        $ <?php echo number_format($total, 2); ?>
                       </h3>
                     </div>
 
@@ -161,7 +161,7 @@ $opt .= "</select>";
                     <div class="col-sm-12 mb-2">
                       <div class="input-group mb-2">
                         <div class="input-group-prepend">
-                          <span class="input-group-text">₱</span>
+                          <span class="input-group-text">$</span>
                         </div>
                           <input class="form-control text-right" id="txtNumber" onkeypress="return isNumberKey(event)" type="text" name="cash" placeholder="ENTER CASH" name="cash" required>
                     </div>

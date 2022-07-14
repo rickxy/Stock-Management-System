@@ -1,7 +1,8 @@
 <?php
 include'../includes/connection.php';
 include'../includes/sidebar.php';
-?><?php 
+?>
+<?php 
 
                 $query = 'SELECT ID, t.TYPE
                           FROM users u

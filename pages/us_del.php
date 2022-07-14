@@ -1,4 +1,5 @@
 <?php
+
 include'../includes/connection.php';
 
 	if (!isset($_GET['do']) || $_GET['do'] != 1) {

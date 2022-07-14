@@ -1,5 +1,6 @@
 <?php
 include'../includes/connection.php';
+
 ?>
             <?php
               $fname = $_POST['firstname'];

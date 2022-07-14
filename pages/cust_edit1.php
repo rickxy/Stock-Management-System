@@ -10,7 +10,8 @@ include('../includes/connection.php');
 					LAST_NAME ="'.$lname.'", PHONE_NUMBER="'.$phone.'" WHERE
 					CUST_ID ="'.$zz.'"';
 					$result = mysqli_query($db, $query) or die(mysqli_error($db));
-							
+		
+					
 ?>	
 	<script type="text/javascript">
 			alert("You've Update Customer Successfully.");

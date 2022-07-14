@@ -1,8 +1,8 @@
 
-Stock Management System consist of the following features
+##Stock Management System consist of the following features
 
-Inventory Control
-Product Management
+#Inventory Control
+#Product Management
 Employee Management
 Account Management
 Price Adjustments

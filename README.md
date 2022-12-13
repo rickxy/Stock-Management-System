@@ -3,6 +3,7 @@ This stock management system uses a MySQL database and PHP. This web application
 Each of the project's stock records, including the Purchase Order, Receiving, and others, provides print features. In terms of how this project will go, the admin users must first fill up all relevant lists, including the supplier list and the item list. Users will then generate a Supplier Purchase Order Record. Users can then receive the items listed on each purchase order, meaning a PO Record is necessary in order to add the item's stock to the system. The system will then automatically establish a new Back Order Record for the products that have not yet been delivered when you receive the items if the supplier only delivers some of them or not all of them. BO records function similarly to the PO record.
 The management can then produce a return record when the delivered goods have faults, issues, or anything else. After saving this file, the system will immediately deduct the damaged goods from the stock availability. Last but not least, the company's sales record is a record of the stocks that its clients or customers have purchased. The stock availability will also be reduced for each stock specified in the sales record.
 
+
 For System Login check the YouTube video 
 #
 ![Screenshot (5)](https://user-images.githubusercontent.com/36708000/189607065-28afd173-791a-43b6-8cb5-6584fadedafe.png)
